@@ -1,0 +1,26 @@
+html{
+    background: grey;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin:  40px;
+    padding: 40px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: #fff;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+h2 {
+    color:rgb(37, 37, 37);
+}
+
+button {
+    color:blue;
+    margin-top: 15px;
+}
